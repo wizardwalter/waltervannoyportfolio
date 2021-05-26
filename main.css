@@ -17,3 +17,13 @@ body, html {
 .container{
     text-align: center;
 }
+.card-image{
+    width: 20rem;
+    height: auto;
+    margin-right: 10px;
+}
+
+.card{
+    width: fit-content;
+    height: fit-content;
+}
