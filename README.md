@@ -1,3 +1,3 @@
 my webportfolio starter
-## Pacman exercise
+##Pacman exercise
 <a href="https://wizardwalter.github.io/PacMan/">Pacman Repository</a>
