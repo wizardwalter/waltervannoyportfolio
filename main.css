@@ -4,8 +4,9 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
     background: rgb(40,40,41);
-    background: linear-gradient(0deg, rgba(40,40,41,1) 0%, rgba(83,83,84,1) 8%, rgba(182,184,187,1) 45%, rgba(104,105,107,1) 66%);
+    background: linear-gradient(0deg, rgba(40,40,41,1) 0%, rgba(83,83,84,1) 8%, rgba(182,184,187,1) 45%, rgba(104,105,107,1) 100%);
     height: 100%;
+    width: 100%;
 }
 #image{
     height: 30vh;
@@ -26,4 +27,19 @@ body, html {
 .card{
     width: fit-content;
     height: fit-content;
+}
+
+nav{
+    margin-bottom: 7px;
+    width: 100%;
+    
+}
+
+iframe{
+    margin-top: 10px;
+}
+
+.col-1{
+    margin-right: 2rem;
+    margin-left: 2rem;
 }
