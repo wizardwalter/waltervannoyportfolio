@@ -56,12 +56,14 @@ a:hover{
 .PacMan{
     grid-column: 3;
     grid-row: 3/6;
+    margin-bottom: 4px;
 }
 
 
 .eyes{
     grid-column: 5;
     grid-row: 3/6;
+    margin-bottom: 4px;
 }
 
 .bus{
