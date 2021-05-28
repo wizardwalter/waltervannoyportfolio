@@ -54,21 +54,21 @@ a:hover{
     gap: 20px;
 }
 .PacMan{
-    grid-column: 3;
-    grid-row: 3/6;
+    grid-column: 2;
+    grid-row: 2/4;
     margin-bottom: 4px;
 }
 
 
 .eyes{
-    grid-column: 5;
-    grid-row: 3/6;
+    grid-column: 2;
+    grid-row: 5/7;
     margin-bottom: 4px;
 }
 
 .bus{
-    grid-column:4;
-    grid-row: 8/11;
+    grid-column:2;
+    grid-row: 8/10;
 }
 #bio{
     width: 20rem;
